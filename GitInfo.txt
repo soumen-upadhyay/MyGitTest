@@ -10,3 +10,8 @@ git push origin master
 git clone https://github.com/soumen-upadhyay/MyGitTest.git (to copy/download/clone to other user/path//system)
 git pull origin master
 
+git branch
+git branch new_branch
+git checkout new_branch
+(go to master using git checkout master and then use below to merge)
+git merge new_branch
