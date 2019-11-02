@@ -16,3 +16,7 @@ git checkout new_branch
 (go to master using git checkout master and then use below to merge)
 git merge new_branch
 git branch -d new_branch
+
+git log -i --grep="search_criteria"
+git log -i --author="search_criteria"
+git log -i -p -G"text to be searched"
