@@ -15,3 +15,4 @@ git branch new_branch
 git checkout new_branch
 (go to master using git checkout master and then use below to merge)
 git merge new_branch
+git branch -d new_branch
